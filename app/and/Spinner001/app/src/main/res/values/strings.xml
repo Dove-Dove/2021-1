@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spinner001</string>
+    <string name="planet_prompt">행성을 선택해 주세요!</string>
+    
+    <string-array name="planet_list">
+        <item>수성</item>
+        <item>금성</item>
+        <item>지구</item>
+        <item>화성</item>
+        <item>목성</item>
+        <item>토성</item>
+        <item>천황성</item>
+        <item>해황성</item>
+        <item>명황성</item>
+    </string-array>
+</resources>
